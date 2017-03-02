@@ -1,3 +1,3 @@
 # ProgUzytkowe
 ##Opis projektu
-projekt.
+projekt. dzingiel
